@@ -1,0 +1,11 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/ubuntu/.nvm/versions/node/v7.7.1/bin/node /home/ubuntu/.nvm/versions/node/v7.7.1/bin/firebase deploy
+[debug] CLI Version:  3.4.0
+[debug] Platform:     linux
+[debug] Node Version: v7.7.1
+[debug] Time:         Sun Mar 05 2017 18:24:37 GMT+0000 (UTC)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/bluewaters-da10f  
+ Sun Mar 05 2017 18:24:37 GMT+0000 (UTC)
